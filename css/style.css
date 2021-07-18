@@ -1,0 +1,68 @@
+
+.card{
+  text-align: left;
+  margin: 10px;
+}
+p{
+ margin-bottom: 1px;
+}
+
+.border-top{
+  padding: 20px;
+  margin-top: 10px;
+  padding-top: 30px;
+}
+
+#titulo{
+  color:gray;
+  font-size: 16px;
+  margin-bottom: 2px;
+}
+#precioriginal{
+  text-decoration: line-through;
+  color:gray;
+}
+#descuento{
+  color:#5A8E70;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+#cuotas{
+  color:black;
+  font-size: 15px;
+  font-weight: bold;
+}
+.card h5{
+  color: gray;
+}
+
+.fa-truck {
+  color: green;
+  float: right;
+}
+
+#freetoday{
+  color:white;
+  background-color: #52BC8D;
+  width: 120px;
+  padding: 3px;
+}
+
+#bestseller{
+  color:white;
+  background-color: #E68056;
+  width: 120px;
+  padding: 3px;
+}
+
+#colors{
+  background-color: white;
+  color:grey;
+  margin-top: -40px;
+  margin-bottom: 15px;
+  border-radius: 25px;
+  border: 2px solid #D6D6D6;
+  width:80px;
+  padding-left: 5px;
+}
